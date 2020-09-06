@@ -46,5 +46,40 @@ h5 {
     font-size: 20px;
     font-weight: 700;
   }
-  
+  .landing{
+    background-image: url("../images/slider2.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    padding-bottom: 20px;
+    position: relative;
+    overflow-x: hidden;
+  }
+  .text a{
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .text h5{
+    font-size: 25px;
+    padding: 30px;
+  }
+  .button{
+    border-radius: 10px;
+  }
+  .card-title{
+    text-align: center;
+    color: green;
+    font-weight: 800;
+  }
+  .controls-top h2{
+    color: rgb(5, 172, 5);
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+  }
+  .col-md-4{
+    border-radius: 10%;
+    padding: 10px;
+  }
   
