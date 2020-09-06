@@ -11,7 +11,7 @@ This is a web application that shows details about the services and diffent pizz
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Pizza-Deliciosa.git```
+* git clone ```https://github.com/njeruisaac/Pizza-App.git```
 
 * cd Pizza-APP
 
