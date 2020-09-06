@@ -211,6 +211,15 @@ h5 {
     padding-left: 5%;
     color: #ffa500;
   }
- 
+  @media only screen and (max-width: 485px){
+    .flex-xs-column {
+      flex-direction: column;
+    }
+  }
+  @media only screen and (max-width: 767px){
+    .section {
+      padding-top: 30px;
+  }
+  
   
   
